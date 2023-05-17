@@ -84,7 +84,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Kaghenimbale/Vet-clinic.git
+  git clone https://github.com/Kaghenimbale/decode_code_morse.git
 ```
 
 ### Install
