@@ -1,1 +1,1 @@
-gem 'rubocop', '~> 1.51',
+gem 'rubocop', '~> 1.51.0'
