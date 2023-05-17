@@ -1,6 +1,3 @@
-# Define the Morse code dictionary
-
-
 def decode_morse(morse)
     morse_code = {
         ".-"    => "A",
